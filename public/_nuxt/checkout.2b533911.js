@@ -1,0 +1,1 @@
+import{f as o,j as t,o as a,c,a as e,z as l}from"./entry.0819dfc5.js";const n={class:"flex flex-col min-h-screen items-center"},r={class:"flex-grow flex w-full bg-[#181818] z-20"},_={class:"mx-auto w-11/12 py-8"},m=o({__name:"checkout",setup(f){return t(),(s,d)=>(a(),c("div",n,[e("div",r,[e("div",_,[l(s.$slots,"default")])])]))}});export{m as default};

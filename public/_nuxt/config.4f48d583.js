@@ -1,0 +1,1 @@
+import{a9 as t,aa as o,B as i,Y as n}from"./entry.0819dfc5.js";const a=t({name:"Upgrade",description:"Upgrade your spotify with on-the-go.",social:{discord:"https://discord.gg/upgrade",twitter:"https://twitter.com/upgrade"}}),e={},s=o(a,e);function g(){const p=n();return p._appConfig||(p._appConfig=i(s)),p._appConfig}export{g as u};
